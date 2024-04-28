@@ -1,6 +1,6 @@
 const stylelint = require("stylelint");
 
-const ruleName = "crisp/rule-empty-line-before";
+const ruleName = "jomo/rule-empty-line-before";
 const messages = stylelint.utils.ruleMessages(ruleName, {
   expected: "Expected an empty line before the rule",
 });

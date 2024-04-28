@@ -1,6 +1,6 @@
 const stylelint = require("stylelint");
 
-const ruleName = "crisp/at-rule-conditional-parentheses";
+const ruleName = "jomo/at-rule-conditional-parentheses";
 const messages = stylelint.utils.ruleMessages(ruleName, {
   expected: (rule) => `Expected parentheses in \"@${rule}\" statement`
 });

@@ -120,10 +120,10 @@ module.exports = {
       "rules"
     ],
 
-    // Crisp rules
-    "crisp/at-rule-conditional-parentheses": true,
-    "crisp/filename-class-match": true,
-    "crisp/rule-empty-line-before": true,
-    "crisp/selector-class-interpolation": true
+    // Jomo rules
+    "jomo/at-rule-conditional-parentheses": true,
+    "jomo/filename-class-match": true,
+    "jomo/rule-empty-line-before": true,
+    "jomo/selector-class-interpolation": true
   }
 }
