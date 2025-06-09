@@ -1,7 +1,7 @@
 const stylelint = require("stylelint");
 const path = require("path");
 
-const ruleName = "crisp/filename-class-match";
+const ruleName = "jomo/filename-class-match";
 const messages = stylelint.utils.ruleMessages(ruleName, {
   expected: (className, fileName) => `Expected top-level class '${className}' to match file name '${fileName}'`
 });

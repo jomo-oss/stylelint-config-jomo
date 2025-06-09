@@ -1,6 +1,6 @@
 const stylelint = require("stylelint");
 
-const ruleName = "crisp/selector-class-interpolation";
+const ruleName = "jomo/selector-class-interpolation";
 const messages = stylelint.utils.ruleMessages(ruleName, {
   expected: "Expected Sass interpolation in class selector"
 });

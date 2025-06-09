@@ -1,16 +1,16 @@
 {
-  "name": "stylelint-config-crisp",
+  "name": "stylelint-config-jomo",
   "version": "1.0.35",
-  "description": "Custom Stylelint Rules for Crisp",
+  "description": "Custom Stylelint Rules for Jomo",
   "author": "Crisp IM SAS",
   "main": "index.js",
-  "homepage": "https://github.com/crisp-oss/stylelint-config-crisp",
+  "homepage": "https://github.com/jomo-oss/stylelint-config-jomo",
   "repository": {
     "type": "git",
-    "url": "git://github.com/crisp-oss/stylelint-config-crisp"
+    "url": "git://github.com/jomo-oss/stylelint-config-jomo"
   },
   "bugs": {
-    "url": "https://github.com/crisp-oss/stylelint-config-crisp/issues"
+    "url": "https://github.com/jomo-oss/stylelint-config-jomo/issues"
   },
   "dependencies": {
     "@stylistic/stylelint-config": "1.0.1",
