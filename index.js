@@ -14,6 +14,7 @@ module.exports = {
   plugins: [
     "./rules/at-rule-conditional-parentheses",
     "./rules/filename-class-match",
+    "./rules/media-queries-comment",
     "./rules/no-inline-colors",
     "./rules/rule-empty-line-before",
     "./rules/selector-class-interpolation",
@@ -131,6 +132,7 @@ module.exports = {
     // Crisp rules
     "crisp/at-rule-conditional-parentheses": true,
     "crisp/filename-class-match": true,
+    "crisp/media-queries-comment": true,
     "crisp/no-inline-colors": true,
     "crisp/rule-empty-line-before": true,
     "crisp/selector-class-interpolation": true
